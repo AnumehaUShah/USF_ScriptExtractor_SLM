@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;&apos; to &apos;edu.ca.usf.scriptextractor.SLM.wordLimit&apos;&#x0A;- Original project: &apos;USF_ScriptExtractor_SLM-master&apos;&#x0A;- Destination element: &apos;edu.ca.usf.scriptextractor.SLM.wordLimit&apos;&#x0A;- Original element: &apos;edu.ca.usf.scriptextractor.SLM.modelClosed&apos;" description="Copy field" destination="/src&lt;edu.ca.usf.scriptextractor{SLM.java[SLM^wordLimit" element1="/src&lt;edu.ca.usf.scriptextractor{SLM.java[SLM^modelClosed" flags="589830" id="org.eclipse.jdt.ui.copy" members="1" policy="org.eclipse.jdt.ui.copyMembers" stamp="1460053319183" version="1.0"/>
-</session>
